@@ -29,3 +29,9 @@ Then open the notebook you want. Figures are saved in a `figures/` folder next t
 
 - Every code cell is **self-contained**: change a number (like `n`, the confidence level, or the random seed) and re-run just that cell.
 - Look for the **Try it** suggestions above the code cells.
+
+## AI disclosure
+
+These notebooks were developed with the help of an AI assistant (Claude, made by Anthropic). The AI helped write code, draft explanations, and make figures. The instructor designed the lessons, chose the examples, and reviewed and edited all of the material, and is responsible for its content. If you spot an error, please let the instructor know!
+
+Using AI in your own coursework? Follow the AI policy in the course syllabus.
