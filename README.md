@@ -9,6 +9,7 @@ Jupyter notebooks that go with the Math 32 lectures. Each notebook makes every f
 | 24 | The Law of Large Numbers & the Central Limit Theorem | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture24_LLN_and_CLT/Lecture24.ipynb) |
 | 26 | The Central Limit Theorem in Action: Averages and Sums | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture26_CLT_Sums_and_Averages/Lecture26.ipynb) |
 | 27 | Confidence Intervals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture27_Confidence_Intervals/Lecture27.ipynb) |
+| 28 | More Confidence Intervals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture28_More_Confidence_Intervals/Lecture28.ipynb) |
 
 These go with **Standard 10: Calculations with the Central Limit Theorem**.
 
