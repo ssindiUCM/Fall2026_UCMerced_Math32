@@ -4,15 +4,20 @@ Jupyter notebooks that go with the Math 32 lectures. Each notebook makes every f
 
 ## Notebooks
 
-| Lecture | Topic | Open in Colab |
-|---|---|---|
-| 24 | The Law of Large Numbers & the Central Limit Theorem | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture24_LLN_and_CLT/Lecture24.ipynb) |
-| 26 | The Central Limit Theorem in Action: Averages and Sums | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture26_CLT_Sums_and_Averages/Lecture26.ipynb) |
-| 27 | Confidence Intervals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture27_Confidence_Intervals/Lecture27.ipynb) |
-| 28 | More Confidence Intervals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture28_More_Confidence_Intervals/Lecture28.ipynb) |
-| 29 | Hypothesis Testing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture29_Intro_HypothesisTesting/Lecture29.ipynb) |
+| Lecture | Topic | Standard | Open in Colab |
+|---|---|---|---|
+| 24 | The Law of Large Numbers & the Central Limit Theorem | 9, 10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture24_LLN_and_CLT/Lecture24.ipynb) |
+| 26 | The Central Limit Theorem in Action: Averages and Sums | 10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture26_CLT_Sums_and_Averages/Lecture26.ipynb) |
+| 27 | Confidence Intervals | 10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture27_Confidence_Intervals/Lecture27.ipynb) |
+| 28 | More Confidence Intervals | 10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture28_More_Confidence_Intervals/Lecture28.ipynb) |
+| 29 | Hypothesis Testing | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture29_Intro_HypothesisTesting/Lecture29.ipynb) |
 
-These go with **Standard 10: Calculations with the Central Limit Theorem**.
+### Course standards covered
+
+- **Standard 9:** The Three Inequalities (including the Law of Large Numbers)
+- **Standard 10:** Using the Central Limit Theorem (including confidence intervals and the $t$ distribution)
+- **Standard 11:** Hypothesis Testing (including Type 1 and Type 2 errors)
+- **Standard 12:** Estimators and Maximum Likelihood Estimators
 
 ## How to run the notebooks
 
