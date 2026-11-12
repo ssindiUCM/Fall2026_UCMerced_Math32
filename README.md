@@ -11,6 +11,7 @@ Jupyter notebooks that go with the Math 32 lectures. Each notebook makes every f
 | 27 | Confidence Intervals | 10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture27_Confidence_Intervals/Lecture27.ipynb) |
 | 28 | More Confidence Intervals | 10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture28_More_Confidence_Intervals/Lecture28.ipynb) |
 | 29 | Hypothesis Testing | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture29_Intro_HypothesisTesting/Lecture29.ipynb) |
+| 30 | Null and Alternative Hypotheses, and the $p$-Value | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture30_Null_Alternative_pValues/Lecture30.ipynb) |
 
 ### Course standards covered
 
