@@ -12,6 +12,8 @@ Jupyter notebooks that go with the Math 32 lectures. Each notebook makes every f
 | 28 | More Confidence Intervals | 10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture28_More_Confidence_Intervals/Lecture28.ipynb) |
 | 29 | Hypothesis Testing | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture29_Intro_HypothesisTesting/Lecture29.ipynb) |
 | 30 | Null and Alternative Hypotheses, and the $p$-Value | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture30_Null_Alternative_pValues/Lecture30.ipynb) |
+| 31 | Carrying Out Tests, and Two Kinds of Errors | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture31_Tests_and_Two_Kinds_of_Errors/Lecture31.ipynb) |
+| 32 | Type II Errors: How Often Do We Miss? | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture32_Type_II_Errors/Lecture32.ipynb) |
 
 ### Course standards covered
 
@@ -24,7 +26,7 @@ Jupyter notebooks that go with the Math 32 lectures. Each notebook makes every f
 
 **Easiest: Google Colab (nothing to install).** Click an "Open in Colab" badge above, sign in with your Google account, and choose *Runtime → Run all*. To keep your changes, use *File → Save a copy in Drive*.
 
-**On your own computer.** You need Python 3 with Jupyter, NumPy and Matplotlib:
+**On your own computer.** You need Python 3 with Jupyter, NumPy, Matplotlib and SciPy:
 
 ```
 pip install -r requirements.txt
