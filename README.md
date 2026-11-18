@@ -13,10 +13,11 @@ Jupyter notebooks that go with the Math 32 lectures. Each notebook makes every f
 | 29 | Hypothesis Testing | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture29_Intro_HypothesisTesting/Lecture29.ipynb) |
 | 30 | Null and Alternative Hypotheses, and the $p$-Value | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture30_Null_Alternative_pValues/Lecture30.ipynb) |
 | 31 | Carrying Out Tests, and Two Kinds of Errors | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture31_Tests_and_Two_Kinds_of_Errors/Lecture31.ipynb) |
-| 32 | Type II Errors: How Often Do We Miss? | 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture32_Type_II_Errors/Lecture32.ipynb) |
+| 32 | Type II Errors: How Often Do We Miss? (power, and a power analysis) | 8 (review), 10, 11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssindiUCM/Fall2026_UCMerced_Math32/blob/main/Lecture32_Type_II_Errors/Lecture32.ipynb) |
 
 ### Course standards covered
 
+- **Standard 8:** The Standard Normal Distribution and the Z-Table (reviewed in Lecture 32)
 - **Standard 9:** The Three Inequalities (including the Law of Large Numbers)
 - **Standard 10:** Using the Central Limit Theorem (including confidence intervals and the $t$ distribution)
 - **Standard 11:** Hypothesis Testing (including Type 1 and Type 2 errors)
